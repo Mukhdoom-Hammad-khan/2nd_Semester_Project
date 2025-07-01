@@ -1,2 +1,7 @@
-This is HMS project and i am one of the collaborator on this project
-Mukhdoom Hammad Khan Did All the work
+This is HMS project and the collaborator of this project are:
+<br>
+### Ahmed-Raza
+### Huzaifa Ali
+### Ajwad Rehman
+### Makhdum Hammad Khan 
+
