@@ -68,14 +68,38 @@ Hospital-Management-System/
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
+
+### Login Page  
 <img width="564" height="652" alt="image" src="https://github.com/user-attachments/assets/c5b21fc6-81c6-4d23-8eb8-f61897d9880c" />
+A simple and secure login interface for doctors and staff.  
+
+### Home Screen  
 <img width="1247" height="791" alt="image" src="https://github.com/user-attachments/assets/f5783863-f4e6-4ade-b597-79b3b644d6d3" />
+The main GUI that provides quick access to all hospital management features.  
+
+### Patient Management  
 <img width="1252" height="790" alt="image" src="https://github.com/user-attachments/assets/e739087c-023a-4d2b-9834-d98df997c105" />
-<img width="1376" height="789" alt="image" src="https://github.com/user-attachments/assets/cd00364f-a6ba-4c0f-9634-b05ac149f473" />
-<img width="1249" height="788" alt="image" src="https://github.com/user-attachments/assets/695a52e5-ff72-4dc9-98e8-50d30f465236" />
+Add, update, and manage patient details with ease.  
+
+### Medicine Management  
 <img width="1250" height="785" alt="image" src="https://github.com/user-attachments/assets/237535fe-28ed-42be-8ba6-3d681f063e76" />
+Keep track of all medicines and manage stock effectively.  
+
+### Check-Up Module  
+<img width="1249" height="788" alt="image" src="https://github.com/user-attachments/assets/695a52e5-ff72-4dc9-98e8-50d30f465236" />
+Record and manage patient check-up details.  
+
+### Billing Information  
+Handle patient billing details in a structured way.  
+
+### Reports  
+<img width="1376" height="789" alt="image" src="https://github.com/user-attachments/assets/cd00364f-a6ba-4c0f-9634-b05ac149f473" />
+Generate detailed reports for patients, medicines, and earnings.  
+
+### 💰 Earnings Tracker  
 <img width="1249" height="800" alt="image" src="https://github.com/user-attachments/assets/c85fcfea-0b8d-446b-9d7e-dea33a237f5b" />
+Monitor hospital earnings and maintain financial records.  
 
 ---
 
