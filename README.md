@@ -81,7 +81,7 @@ Hospital-Management-System/
 ---
 
 ## Authors
-- **Your Team Members' Names**  
+-
 Ajwad Rehman<br>
 Ahmed Raza<br>
 Mukhdoom Hammad Khan<br>
