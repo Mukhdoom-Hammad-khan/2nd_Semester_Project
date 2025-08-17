@@ -68,7 +68,7 @@ Hospital-Management-System/
 
 ---
 
-## 📸 Screenshots  
+## Screenshots  
  
 <img width="564" height="652" alt="Login Page" src="https://github.com/user-attachments/assets/c5b21fc6-81c6-4d23-8eb8-f61897d9880c" />  
 
@@ -82,18 +82,11 @@ Hospital-Management-System/
 
 <img width="1250" height="790" alt="Billing Information" src="https://github.com/user-attachments/assets/PUT-YOUR-BILLING-IMAGE-LINK-HERE" />  
 
----
-
-### 📊 Reports  
 <img width="1376" height="789" alt="Reports" src="https://github.com/user-attachments/assets/cd00364f-a6ba-4c0f-9634-b05ac149f473" />  
-Generate detailed reports for patients, medicines, and earnings.  
+
+<img width="1249" height="800" alt="Earnings Tracker" src="https://github.com/user-attachments/assets/c85fcfea-0b8d-446b-9d7e-dea33a237f5b" />  
 
 ---
-
-### 💰 Earnings Tracker  
-<img width="1249" height="800" alt="Earnings Tracker" src="https://github.com/user-attachments/assets/c85fcfea-0b8d-446b-9d7e-dea33a237f5b" />  
-Monitor hospital earnings and maintain financial records.  
-
 
 ## Learning Outcomes
 - Hands-on experience with **Java Swing GUI**  
