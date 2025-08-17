@@ -80,8 +80,6 @@ Hospital-Management-System/
 
 <img width="1249" height="788" alt="Check-Up Module" src="https://github.com/user-attachments/assets/695a52e5-ff72-4dc9-98e8-50d30f465236" />  
 
-<img width="1250" height="790" alt="Billing Information" src="https://github.com/user-attachments/assets/PUT-YOUR-BILLING-IMAGE-LINK-HERE" />  
-
 <img width="1376" height="789" alt="Reports" src="https://github.com/user-attachments/assets/cd00364f-a6ba-4c0f-9634-b05ac149f473" />  
 
 <img width="1249" height="800" alt="Earnings Tracker" src="https://github.com/user-attachments/assets/c85fcfea-0b8d-446b-9d7e-dea33a237f5b" />  
