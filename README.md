@@ -27,20 +27,36 @@ The system manages hospital operations such as patient details, billing, hospita
 
 ## 📂 Project Structure
 ```
-HospitalManagementSystem/
-│-- src/
-│   │-- hospitalmanagementsystem/
-│   │   │-- Hospital.java        # Main entry point
-│   │   │-- Patient.java         # Patient entity class
-│   │   │-- Billing.java         # Billing management
-│   │   │-- Earnings.java        # Hospital earnings tracking
-│   │   │-- Staff.java           # Staff/Doctor management
-│   │   │-- <GUI Files>.java     # NetBeans generated GUI files
+Hospital-Management-System/
+├── Source Packages/
+│ ├── <default package>/
+│ │ ├── BillingInfo.java # Handles billing details of patients
+│ │ ├── CheckUp.java # Manages patient check-ups
+│ │ ├── Doctor.jpg # Image resource for GUI
+│ │ ├── Earnings.java # Tracks hospital earnings
+│ │ ├── Home.java # Main GUI home screen
+│ │ ├── Login.java # User login functionality
+│ │ ├── Medicine.java # Medicine entity class
+│ │ ├── Medicines.java # Manage collection of medicines
+│ │ ├── Patient.java # Patient entity class
+│ │ ├── Patients.java # Manage collection of patients
+│ │ └── Reports.java # Handles report generation
 │
-│-- README.md
+├── gifs/ # Image and GIF assets for GUI
+│ ├── checkup.gif
+│ ├── doctor1.gif
+│ ├── doctors.gif
+│ ├── medical.gif
+│ ├── medicines.gif
+│ ├── medium_logo.gif
+│ ├── money.gif
+│ ├── patient.gif
+│ ├── poweroff.gif
+│ ├── reports.gif
+│ └── smalllogo.gif
+│
+└── README.md
 ```
-
----
 
 ## ▶️ How to Run the Project
 1. Open **NetBeans IDE**  
