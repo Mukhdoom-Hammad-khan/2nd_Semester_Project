@@ -82,9 +82,9 @@ Hospital-Management-System/
 
 ## Authors
 - **Your Team Members' Names**  
-Ajwad Rehman
-Ahmed Raza
-Mukhdoom Hammad Khan
+Ajwad Rehman<br>
+Ahmed Raza<br>
+Mukhdoom Hammad Khan<br>
 Muhammad Huzaifa Ali Sulehria
 ---
 
