@@ -81,11 +81,12 @@ Hospital-Management-System/
 ---
 
 ## Authors
--
+
 Ajwad Rehman<br>
 Ahmed Raza<br>
 Mukhdoom Hammad Khan<br>
 Muhammad Huzaifa Ali Sulehria
+
 ---
 
 ## 📜 License
