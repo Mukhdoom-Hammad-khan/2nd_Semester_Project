@@ -8,12 +8,13 @@ The system manages hospital operations such as patient details, billing, hospita
 ---
 
 ## Features
-- 🏥 **Patient Management** – Add, view, update, and remove patient records  
-- 💳 **Billing System** – Generate and manage patient bills  
-- 📊 **Hospital Earnings** – Track and calculate total earnings  
-- 👨‍⚕️ **Doctor & Staff Management** – Store and manage staff details  
-- 💾 **File Handling Support** – Data stored and retrieved using file handling  
-- 🎨 **Graphical User Interface (GUI)** – Built using **NetBeans GUI Builder** for easy navigation
+- **Patient Management** – Add, view, update, and remove patient records
+- **Medicine Management** – Add, view, update, and remove medicine data  
+- **Billing System** – Generate and manage patient bills  
+- **Hospital Earnings** – Track and calculate total earnings  
+- **Doctor & Staff Management** – Store and manage staff details  
+- **File Handling Support** – Data stored and retrieved using file handling  
+- **Graphical User Interface (GUI)** – Built using **NetBeans GUI Builder** for easy navigation
 
 ---
 
@@ -68,7 +69,8 @@ Hospital-Management-System/
 ---
 
 ## Screenshots (Optional)
-> You can add screenshots of your application interface here.
+<img width="564" height="652" alt="image" src="https://github.com/user-attachments/assets/c5b21fc6-81c6-4d23-8eb8-f61897d9880c" />
+
 
 ---
 
