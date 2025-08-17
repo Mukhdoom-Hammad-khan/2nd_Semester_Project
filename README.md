@@ -104,5 +104,5 @@ Muhammad Huzaifa Ali Sulehria
 ---
 
 ## 📜 License
-This project was developed for **educational purposes** as part of a university course.  
-You are free to use and modify it for learning and academic purposes.
+
+This project is licensed under the [MIT](LICENSE).
