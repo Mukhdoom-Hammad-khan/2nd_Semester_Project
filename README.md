@@ -1,13 +1,13 @@
 # Hospital Management System
 
-## 📌 Project Overview
+## Project Overview
 The **Hospital Management System** is a Java-based desktop application developed as a **second-year university project**.  
 It was built using **Java Swing (NetBeans GUI Builder)** and **Object-Oriented Programming (OOP) principles**.  
 The system manages hospital operations such as patient details, billing, hospital earnings, and staff management in a simple and efficient way.
 
 ---
 
-## 🚀 Features
+## Features
 - 🏥 **Patient Management** – Add, view, update, and remove patient records  
 - 💳 **Billing System** – Generate and manage patient bills  
 - 📊 **Hospital Earnings** – Track and calculate total earnings  
@@ -17,7 +17,7 @@ The system manages hospital operations such as patient details, billing, hospita
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Language**: Java (JDK 8+)  
 - **IDE**: NetBeans  
 - **GUI Framework**: Java Swing  
@@ -25,7 +25,7 @@ The system manages hospital operations such as patient details, billing, hospita
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 Hospital-Management-System/
 ├── Source Packages/
@@ -58,7 +58,7 @@ Hospital-Management-System/
 └── README.md
 ```
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Open **NetBeans IDE**  
 2. Click on **File → Open Project**  
 3. Select the project folder (`HospitalManagementSystem`)  
@@ -67,12 +67,12 @@ Hospital-Management-System/
 
 ---
 
-## 📸 Screenshots (Optional)
+## Screenshots (Optional)
 > You can add screenshots of your application interface here.
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Hands-on experience with **Java Swing GUI**  
 - Improved understanding of **Object-Oriented Programming**  
 - Practical use of **File Handling in Java**  
@@ -80,10 +80,12 @@ Hospital-Management-System/
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 - **Your Team Members' Names**  
-(Replace with your actual names and roll numbers)
-
+Ajwad Rehman
+Ahmed Raza
+Mukhdoom Hammad Khan
+Muhammad Huzaifa Ali Sulehria
 ---
 
 ## 📜 License
